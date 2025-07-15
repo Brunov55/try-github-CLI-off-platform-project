@@ -1,6 +1,6 @@
 import random
 
-name = "Joe"
+name = "John"
 question = "Will I win the lottery?"
 answer = ""
 
